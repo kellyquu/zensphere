@@ -1,2 +1,2 @@
 # Zensphere
-# Submission to MetHacks 2023
+Submission to MetHacks 2023
