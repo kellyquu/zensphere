@@ -1,4 +1,4 @@
-# Zensphere - Winner at MetHacks 2024
+# Zensphere - Winner at MetHacks 2023 🏆
 ## Inspiration💡
 Imagine starving yourself, hating your body, and being reminded of the trauma everywhere you go. These are the words that haunted my everyday for years, triggers that never went away. And I’m not alone. People with body dysmorphia and eating disorders encounter this struggle daily, and what I wish I had in these dark moments was a tool to help me block triggers and roam the web in peace.
 
